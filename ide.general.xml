@@ -1,0 +1,16 @@
+<application>
+  <component name="GeneralSettings">
+    <option name="browserPath" value="firefox" />
+    <option name="confirmOpenNewProject2" value="0" />
+    <option name="searchInBackground" value="true" />
+    <option name="showTipsOnStartup" value="false" />
+  </component>
+  <component name="Registry">
+    <entry key="actionSystem.quickAccessModifiers" value="alt" />
+    <entry key="ide.firstStartup" value="false" />
+    <entry key="hint.autopopup" value="true" />
+    <entry key="git.new.log" value="true" />
+    <entry key="analyze.exceptions.on.the.fly" value="true" />
+    <entry key="editor.distraction.free.mode" value="true" />
+  </component>
+</application>

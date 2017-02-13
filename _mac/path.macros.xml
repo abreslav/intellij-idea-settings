@@ -1,0 +1,8 @@
+<application>
+  <component name="PathMacrosImpl">
+    <macro name="YOURKIT_HOME" value="/Applications/YourKit_Java_Profiler_12.0.6.app" />
+    <macro name="KOTLIN_BUNDLED" value="/Users/abreslav/work/idea/idea-plugins/Kotlin/kotlinc" />
+    <macro name="IDEA_HOME" value="/Users/abreslav/work/idea/idea.app" />
+    <macro name="MAVEN_REPOSITORY" value="/Users/abreslav/.m2/repository" />
+  </component>
+</application>

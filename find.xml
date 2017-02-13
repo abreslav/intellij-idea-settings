@@ -1,0 +1,27 @@
+<application>
+  <component name="FindSettings">
+    <option name="customScope" value="Project 'm13-idea15-demo'" />
+    <option name="defaultScopeName" value="Project 'm13-idea15-demo'" />
+    <option name="SEARCH_SCOPE" value="Project 'm13-idea15-demo'" />
+    <recentFileMasks>
+      <mask>*.properties</mask>
+      <mask>*.html</mask>
+      <mask>*.jsp</mask>
+      <mask>*.js</mask>
+      <mask>*.as</mask>
+      <mask>*.css</mask>
+      <mask>*.mxml</mask>
+      <mask>*.grm</mask>
+      <mask>*.txt</mask>
+      <mask>*.lazy.log</mask>
+      <mask>*.rb</mask>
+      <mask>pom.xml</mask>
+      <mask>*.java *.kotlin</mask>
+      <mask>*.java,*.kotlin</mask>
+      <mask>*.java</mask>
+      <mask>*.xml</mask>
+      <mask>*.kt</mask>
+      <mask>*.md</mask>
+    </recentFileMasks>
+  </component>
+</application>

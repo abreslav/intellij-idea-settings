@@ -1,0 +1,52 @@
+<application>
+  <component name="CommunityFileTypes" version="11">
+    <ignoreFiles list="CVS;SCCS;RCS;.DS_Store;.svn;.pyc;.pyo;*.pyc;*.pyo;.git;*.hprof;_svn;.hg;*.lib;*~;__pycache__;.bundle;*.rbc;*.orig;" />
+    <extensionMap>
+      <mapping ext="grm" type="Grammar file" />
+      <mapping ext="ktscript" type="Kotlin" />
+      <mapping ext="dot" type="Native" />
+      <mapping pattern="xxx" type="PLAIN_TEXT" />
+      <mapping pattern="file" type="PLAIN_TEXT" />
+      <mapping pattern="fooooo" type="PLAIN_TEXT" />
+      <mapping pattern="EEE" type="PLAIN_TEXT" />
+      <mapping pattern="ddd" type="PLAIN_TEXT" />
+      <mapping pattern="f" type="PLAIN_TEXT" />
+      <mapping pattern="util" type="PLAIN_TEXT" />
+      <mapping pattern="kotlinc" type="PLAIN_TEXT" />
+      <mapping pattern="asdfasdfasdf" type="PLAIN_TEXT" />
+      <mapping pattern=".name" type="PLAIN_TEXT" />
+      <mapping pattern="temp" type="PLAIN_TEXT" />
+      <mapping pattern="Test" type="PLAIN_TEXT" />
+      <mapping pattern="IO" type="PLAIN_TEXT" />
+      <mapping pattern="foo" type="PLAIN_TEXT" />
+      <mapping pattern="xxxx" type="PLAIN_TEXT" />
+      <mapping ext="builderservice" type="PLAIN_TEXT" />
+      <mapping ext="velocity" type="PLAIN_TEXT" />
+      <mapping ext="test" type="PLAIN_TEXT" />
+      <mapping ext="cup" type="PLAIN_TEXT" />
+      <mapping ext="out" type="PLAIN_TEXT" />
+      <mapping ext="basic" type="PLAIN_TEXT" />
+      <mapping ext="csv" type="PLAIN_TEXT" />
+      <mapping ext="jflex" type="PLAIN_TEXT" />
+      <mapping ext="instructions" type="PLAIN_TEXT" />
+      <mapping ext="confluence" type="PLAIN_TEXT" />
+      <mapping ext="disabled" type="PLAIN_TEXT" />
+      <mapping ext="resolve" type="PLAIN_TEXT" />
+      <mapping ext="sil" type="PLAIN_TEXT" />
+      <mapping ext="tagx" type="XML" />
+      <mapping ext="jspx" type="XML" />
+    </extensionMap>
+  </component>
+  <component name="FileTypeManager" version="16">
+    <ignoreFiles list="*.hprof;*.orig;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;vssver.scc;vssver2.scc;" />
+    <extensionMap>
+      <mapping pattern="try" type="PLAIN_TEXT" />
+      <mapping pattern="foo" type="PLAIN_TEXT" />
+      <mapping ext="info" type="PLAIN_TEXT" />
+      <mapping ext="jvmsignaturecomparator" type="PLAIN_TEXT" />
+      <mapping ext="after" type="PLAIN_TEXT" />
+      <mapping ext="out" type="PLAIN_TEXT" />
+      <mapping ext="grm" type="Grammar file" />
+    </extensionMap>
+  </component>
+</application>
