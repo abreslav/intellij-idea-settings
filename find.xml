@@ -2,6 +2,8 @@
   <component name="FindSettings">
     <option name="customScope" value="Project 'm13-idea15-demo'" />
     <option name="defaultScopeName" value="Project 'm13-idea15-demo'" />
+    <option name="localRegularExpressions" value="true" />
+    <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Project 'm13-idea15-demo'" />
     <recentFileMasks>
       <mask>*.properties</mask>
