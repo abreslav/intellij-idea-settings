@@ -2,7 +2,7 @@
   <component name="BlazeWizardUserSettings">
     <settings>
       <entry key="blaze-wizard.last-imported-bazel-workspace" value="$USER_HOME$/work/kythe" />
-      <entry key="generate-from-build-file.last-workspace-path" value="kythe/java/com/google/devtools/kythe/extractors/java/BUILD" />
+      <entry key="generate-from-build-file.last-workspace-path" value="kythe/java/com/google/devtools/kythe/analyzers/java/BUILD" />
       <entry key="select-project-view.selected-option" value="generate-from-build-file" />
       <entry key="select-workspace.selected-option" value="use-existing-bazel-workspace" />
     </settings>
